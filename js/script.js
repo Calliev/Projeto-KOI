@@ -104,9 +104,9 @@ function validarContato() {
 (function() {
     'use strict';
     window.addEventListener('load', function() {
-      // Fetch all the forms we want to apply custom Bootstrap validation styles to
+      // Busca todos os formulários que queremos aplicar estilo de validação
       var forms = document.getElementsByClassName('needs-validation');
-      // Loop over them and prevent submission
+      // Impede a submissão
       var validation = Array.prototype.filter.call(forms, function(form) {
         form.addEventListener('submit', function(event) {
           if (form.checkValidity() === false) {

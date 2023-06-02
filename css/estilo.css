@@ -45,7 +45,7 @@ img {
     display: block;
 }
 
-/* GRID TEMPLATE */
+/* GRADE */
 .estrutura {
     display: grid;
     grid-template-columns: 6rem 1fr 1fr;
@@ -619,9 +619,7 @@ fieldset.form_grupo .form_campo {
     color: rgba(0,0,0,.8);
     border-color: rgba(0,0,0,1); 
 }
-/********************/
 
-/********************/
 
 /* FOOTER */
 .footer {

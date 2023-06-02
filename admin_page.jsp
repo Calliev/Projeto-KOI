@@ -27,7 +27,7 @@
 
 %>
 
-<!-- AQUI COMEÇA A PARTE DE ADM QUE VAI MOSTRAR USUARIOS E TALZ-->
+<!-- AQUI COMEÇA A PARTE DE ADM QUE VAI MOSTRAR USUARIOS E AFINS-->
 <!DOCTYPE html>
 <html lang="pt-br">
     <head>
