@@ -2,6 +2,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 
+<!-- vai conectar com o banco de dados -->
 <%
 
     String email = request.getParameter("log_email");
@@ -26,6 +27,7 @@
 
 %>
 
+<!-- AQUI COMEÇA A PARTE DE ADM QUE VAI MOSTRAR USUARIOS E TALZ-->
 <!DOCTYPE html>
 <html lang="pt-br">
     <head>
