@@ -1,3 +1,4 @@
+<!-- java -->
 <%@page language="java" import="java.sql.*"  %>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
@@ -46,7 +47,7 @@
         <!-- Font Awesome -->
         <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
         
-        <!-- Estilo CSS -->
+        <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/estilo.css">
 
         <!-- Favicon -->
@@ -72,7 +73,7 @@
             <div class="row justify-content-center">
                 <div class="col-11">
 
-                    <!-- Tabela Usuários -->
+                    <!-- Usuários -->
                     <table id="tabela_user" class="table table-hover">
                         <thead class="thead-dark">
                           <tr>
@@ -113,26 +114,27 @@
                         %>
                         </tbody>
                     </table>
-                    <!-- Fim Tabela Usuários -->
+
 
                 </div>
-                <!-- Fim Formulário -->
+
 
             </div>
 
         </div>
-        <!-- Fim Container -->
+
         
-        <!-- Bootstrap Bundle and jQuery -->
+        <!-- Bootstrap e o jQuery -->
         <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
 
-        <!-- Arquivo JS -->
+        <!-- JavaScript -->
         <script src="js/script.js"></script>
     
     </body>
 </html>
 
+<!-- Fecha a conexão com o banco de dados -->
 <%
 
 _conexao.close();

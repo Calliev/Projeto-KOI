@@ -104,9 +104,9 @@ function validarContato() {
 (function() {
     'use strict';
     window.addEventListener('load', function() {
-      // Busca todos os formulários que queremos aplicar estilo de validação
+
       var forms = document.getElementsByClassName('needs-validation');
-      // Impede a submissão
+
       var validation = Array.prototype.filter.call(forms, function(form) {
         form.addEventListener('submit', function(event) {
           if (form.checkValidity() === false) {
