@@ -73,7 +73,7 @@ img {
 }
 
 .bg_azul {
-    background: #E0E9FF;
+    background: #579184
 }
 
 .bg_cinza {
@@ -88,7 +88,7 @@ img {
 /* HEADER */
 .header {
     grid-area: header;
-    background: linear-gradient(52deg, rgba(255, 255, 255, 0.781) 37%, rgba(255, 255, 255, 0.781) 60%, rgba(255, 255, 255, 0.781) 93%);
+    background: linear-gradient(52deg, #579184 37%, #579184 60%, #579184 93%);
     padding: 30px 60px;;
     display: grid;
     grid-template-columns: 1fr auto;
@@ -153,7 +153,7 @@ img {
 /* SIDENAV */
 .sidenav {
     grid-area: sidenav;
-    background: #1e1e24;
+    background: #579184;
     height: 100vh;
     width: 6em;
     position: fixed;
@@ -188,7 +188,7 @@ img {
 
 .sidenav a:hover {
     filter: grayscale(0%) opacity(1);
-    background: #19191E;
+    background:#579184;
 }
 
 .sidenav li:first-child a {
@@ -196,7 +196,7 @@ img {
 }
 
 .sidenav li:first-child a:hover {
-    background: #1e1e24;
+    background:#579184;
 }
 
 .sidenav span {
@@ -238,7 +238,7 @@ img {
 
 .bem_vindo {
     color: #fff;
-    background: linear-gradient(52deg, rgb(40, 70, 31) 50%, rgba(40, 70, 31) 70%, rgba(40, 70, 31) 100%);
+    background: linear-gradient(52deg, rgb(0, 0, 0) 50%, rgb(0, 0, 0) 70%, rgb(0, 0, 0) 100%);
     padding: 30px 60px 30px 100px;
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -535,7 +535,7 @@ fieldset.form_grupo .form_campo {
 .content h3 {
     font-size: 2em;
     line-height: 1.5;
-    color: #222;
+    color: #ffffff;
 }
 
 .content h4 {
@@ -564,7 +564,7 @@ fieldset.form_grupo .form_campo {
 
 .content a {
     margin: 5px 0;
-    color: #000;
+    color: #ffffff;
     display: block;
     padding: 20px;
     font-size: 1.3em;
@@ -624,7 +624,7 @@ fieldset.form_grupo .form_campo {
 /* FOOTER */
 .footer {
     grid-area: footer;
-    background: linear-gradient(0deg, rgba(0,0,0,1) 44%, rgba(0,0,0,0.8575805322128851) 79%, rgba(0,0,0,0.7287289915966386) 96%);
+    background: linear-gradient(0deg, #579184  44%, #579184 79%, #579184  96%);
     padding: 30px 60px 5px 60px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -632,7 +632,7 @@ fieldset.form_grupo .form_campo {
 
 .footer h3 {
     padding: 5px;
-    color: #71A0FF;
+    color: #ffffff;
     font-size: 1.5em;
 }
 
@@ -641,14 +641,14 @@ fieldset.form_grupo .form_campo {
     display: block;
     max-width: 250px;
     padding: 5px;
-    color: #BAD1FF;
+    color: #ffffff;
     border-bottom: 1px solid rgba(255,255,255,0);
     transition: all .3s;
 }
 
 .footer a:hover {
     border-color: #BAD1FF;
-    color: rgba(186, 209, 255, .75);
+    color: rgb(255, 255, 255);
 }
 
 .botoes_inferiores {
