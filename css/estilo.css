@@ -69,7 +69,7 @@ img {
 }
 
 .bg_verde {
-    background: #E2FFE0;
+    background: #579184;
 }
 
 .bg_azul {
@@ -238,7 +238,7 @@ img {
 
 .bem_vindo {
     color: #fff;
-    background: linear-gradient(52deg, rgb(0, 0, 0) 50%, rgb(0, 0, 0) 70%, rgb(0, 0, 0) 100%);
+    background: linear-gradient(52deg, #142f29 50%, #142f29 70%, rgb(0, 0, 0) 100%);
     padding: 30px 60px 30px 100px;
     display: grid;
     grid-template-columns: 1fr 1fr;
