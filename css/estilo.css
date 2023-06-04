@@ -316,7 +316,7 @@ a.botao_uber {
 }
 
 a.botao_uber_eats {
-    background: #6BE1A7;
+    background: #011f10;
 }
 
 a.botao_uber_99 {
@@ -535,7 +535,7 @@ fieldset.form_grupo .form_campo {
 .content h3 {
     font-size: 2em;
     line-height: 1.5;
-    color: #ffffff;
+    color: #333;
 }
 
 .content h4 {
