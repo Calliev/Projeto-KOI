@@ -73,7 +73,7 @@ img {
 }
 
 .bg_azul {
-    background: #579184
+    background: #579184;
 }
 
 .bg_cinza {
@@ -82,6 +82,10 @@ img {
 
 .bg_branco {
     background: #fff;
+}
+
+.bg{
+    background: linear-gradient(52deg, #142f29 50%, #142f29 70%, rgb(0, 0, 0) 100%);
 }
 /********************/
 
