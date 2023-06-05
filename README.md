@@ -12,6 +12,10 @@
   Leandro Oliveira Rocha = 3022103500
   Ingryd Hayanne Rodrigues Da silva = 3022103544
   Vanessa Aparecida Oliveira Rocha = 3022103461
+  Henrique Lepre Duó
+  Wagner frediani de Oliveira
+  Breno Benevides
+  Guilherme Guerra
  </ul>
  
  
