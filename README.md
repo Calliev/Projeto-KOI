@@ -12,4 +12,5 @@
  
  
 
-![koi](https://github.com/Calliev/Projeto-KOI/assets/104165218/62701e5d-114c-4a4a-b8db-05ca26f62ae5)
+
+![koi](https://github.com/Calliev/Projeto-KOI/assets/104165218/c77f3a59-8d4a-41fb-974d-d0d07df36d13)
