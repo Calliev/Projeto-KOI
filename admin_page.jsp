@@ -50,8 +50,9 @@
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/estilo.css">
 
-        <!-- Favicon -->
-        <link rel="icon" href="img/uber_favicon.png">
+         <!-- Icone -->
+        <link rel="icon" href="img/K-novo.png">
+        
     </head>
     
     <body class="bg-dark pt-5 pb-5">

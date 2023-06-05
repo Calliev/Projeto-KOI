@@ -50,7 +50,7 @@
         <link rel="stylesheet" type="text/css" href="css/estilo.css">
 
         <!-- Favicon -->
-        <link rel="icon" href="img/uber_favicon.png">
+        <link rel="icon" href="img/K-novo.png">
 
         <script>
 
