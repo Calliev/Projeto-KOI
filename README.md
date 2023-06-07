@@ -9,13 +9,6 @@
   <li>Compatível com todos os dispositivos móveis e com uma interface de usuário bonita e agradável.</li>
   <li>Este site contém tela de login, cadastro de usuário, cadastro de motorista e carro.</li>
   <li>Para conseguir fazer o cadastro ou logar você pecisa usar o Tomcast por conta do arquivo JSP.</li>
-  Leandro Oliveira Rocha = 3022103500
-  Ingryd Hayanne Rodrigues Da silva = 3022103544
-  Vanessa Aparecida Oliveira Rocha = 3022103461
-  Henrique Lepre Duó
-  Wagner frediani de Oliveira
-  Breno Benevides
-  Guilherme Guerra
  </ul>
  
  
